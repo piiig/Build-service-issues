@@ -1,12 +1,6 @@
----
-title: Tomcat搭建及其项目的部署
-date: 2019-05-05 22:47:54
-tags: tomcat
-categories: 搭建
----
 # 0x00服务器安装JDK
 ### 下载JDK
-下载地址：http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+下载地址：``http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html``
 解压安装 ``tar -zxvf jdk-8u211-linux-x64.tar.gz``
 
 ### 配置
